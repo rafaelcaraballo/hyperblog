@@ -8,10 +8,28 @@ body
     padding: 0;
 }
 
+#headboard
+{
+    background: #33a;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, o.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5cm;
+
+}
+
+#headboard #tagline
+{
+    padding: 0 0 0 1cm;
+    font-weight: normal;
+    font-size: 0.4cm;
+}
+
 #container
 {
     width: 70%;
-    padding: 1cm;
+    padding: 0;
     text-align: left;
     border: 1px solid #ddd;
     margin: 0 auto;
